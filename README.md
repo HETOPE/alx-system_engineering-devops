@@ -1,0 +1,2 @@
+# Shell basics
+Script writing.
